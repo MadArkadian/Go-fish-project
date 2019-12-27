@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace LWTech.KevinBlair.Assignment5
+namespace Go_Fish_Project
 {
     public abstract class Player
     {
