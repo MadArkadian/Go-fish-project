@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Documents\C#\LWTech.KevinBlair.Assignment5\LWTech.KevinBlair.Assignment5\bin\Debug\LWTech.KevinBlair.Assignment5.exe.config
+C:\Users\kevin\OneDrive\Documents\C#\LWTech.KevinBlair.Assignment5\LWTech.KevinBlair.Assignment5\bin\Debug\LWTech.KevinBlair.Assignment5.exe
+C:\Users\kevin\OneDrive\Documents\C#\LWTech.KevinBlair.Assignment5\LWTech.KevinBlair.Assignment5\bin\Debug\LWTech.KevinBlair.Assignment5.pdb
+C:\Users\kevin\OneDrive\Documents\C#\LWTech.KevinBlair.Assignment5\LWTech.KevinBlair.Assignment5\obj\Debug\LWTech.KevinBlair.Assignment5.csprojAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\C#\LWTech.KevinBlair.Assignment5\LWTech.KevinBlair.Assignment5\obj\Debug\LWTech.KevinBlair.Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documents\C#\LWTech.KevinBlair.Assignment5\LWTech.KevinBlair.Assignment5\obj\Debug\LWTech.KevinBlair.Assignment5.exe
+C:\Users\kevin\OneDrive\Documents\C#\LWTech.KevinBlair.Assignment5\LWTech.KevinBlair.Assignment5\obj\Debug\LWTech.KevinBlair.Assignment5.pdb
